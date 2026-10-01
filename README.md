@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Database-Schema-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Database-Schema-Management?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Database-Schema-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Database-Schema-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,9 +62,9 @@ Below is the comparative breakdown of commercial SaaS and Enterprise schema mana
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source database schema management ecosystem is robust and production-proven. The projects below are sorted by **GitHub Star Count (descending)**:
+The open-source database schema management ecosystem is robust and production-proven. The projects below are sorted by **GitHub Stars_Count (descending)**:
 
-| 📦 Open-Source Project | ⭐ GitHub Stars | 📜 License | 🗄️ Primary Model | 🚀 Best For |
+| 📦 Open-Source Project | ⭐ GitHub_Stars | 📜 License | 🗄️ Primary Model | 🚀 Best For |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Prisma Migrate](https://github.com/prisma/prisma)** | <a href="https://github.com/prisma/prisma/stargazers"><img src="https://img.shields.io/github/stars/prisma/prisma?style=social" alt="prisma/prisma stars"/></a> | Apache-2.0 | Hybrid Declarative | Node.js & TypeScript full-stack applications with declarative schema files. |
 | **[Drizzle Kit](https://github.com/drizzle-team/drizzle-orm)** | <a href="https://github.com/drizzle-team/drizzle-orm/stargazers"><img src="https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=social" alt="drizzle-team/drizzle-orm stars"/></a> | Apache-2.0 | Declarative SQL | Modern TypeScript backends requiring fast SQL generation and schema prototyping. |
